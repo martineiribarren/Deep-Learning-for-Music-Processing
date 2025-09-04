@@ -48,4 +48,4 @@ To explore the content of this repository:
 
 ## Contributing
 
-This repository is primarily a personal portfolio. However, feedback, suggestions, or bug reports are welcome.
+This repository serves as my personal portfolio. Feedback, suggestions, and bug reports are really welcome. Feel free to open an issue or submit a pull request!
