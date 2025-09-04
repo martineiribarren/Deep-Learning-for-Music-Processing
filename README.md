@@ -29,8 +29,8 @@ To explore the content of this repository:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/your-musicgen-project.git](https://github.com/YOUR_GITHUB_USERNAME/your-musicgen-project.git)
-    cd your-musicgen-project
+    git clone https://github.com/martineiribarren/Deep-Learning-for-Music-Processing.git
+    cd Deep-Learning-for-Music-Processing
     ```
     
 2.  **Set up the environment**:
